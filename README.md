@@ -1,4 +1,4 @@
-# qublitz-2025
+# QuBlitz 2025 Challenges
 
 Please choose **one** of the following challenges to submit to!
 * Beginner: Complete a series of introductory challenges to get familiar with quantum computing and Qiskit!
